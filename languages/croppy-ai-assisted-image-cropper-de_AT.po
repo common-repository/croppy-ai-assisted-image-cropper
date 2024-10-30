@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_AT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+
+msgid "Email Address:"
+msgstr "E-Mail-Adresse:"
+
+msgid "Application Password:"
+msgstr "Applikationspasswort:"
+
+msgid "Configure"
+msgstr "Konfigurieren"
+
+msgid "Logout"
+msgstr "Ausloggen"
+
+msgid "Open Croppy"
+msgstr "Croppy öffnen"
+
+msgid "Croppy"
+msgstr "Croppy"
+
+msgid "This Plugin will help you to connect your WordPress Website with Croppy."
+msgstr "Dieses Plugin hilft Ihnen, Ihre WordPress-Website mit Croppy zu verbinden."
+
+msgid "Steps you need to do before clicking finish:"
+msgstr "Schritte, die Sie ausführen müssen, bevor Sie auf Fertig stellen klicken können:"
+
+msgid "Create a new user with the rights to create and manage media"
+msgstr "Erstelle einen neuen Benutzer mit den Rechten zum Erstellen und Verwalten von Medien (Redakteur)"
+
+msgid "Create an application password for this user"
+msgstr "Erstelle ein Applikationspasswort für diesen User"
+
+msgid "Copy the email address of the user and paste it into the form below"
+msgstr "Kopiere die e-Mail dieses Users in das unten stehende Eingabefeld für die Mail unten"
+
+msgid "Copy the application password and paste it into the form below"
+msgstr "Kopiere das Applikationspasswort in das unten stehende Eingabefeld für das Passwort"
+
+msgid "By clicking on finish it will do the following:"
+msgstr "Bei Drücken von 'Konfigurieren' geschieht folgendes:"
+
+msgid "Create a new user on our systems with the user mail and password that you provided"
+msgstr "Erstellt einen neuen Benutzer auf unserem System mit der Mail und dem Passwort, das du eingibst"
+
+msgid "Redirect you to the Croppy interface"
+msgstr "Leitet dich auf die Croppy Seite weiter"
+
+msgid "Set you up to let you crop"
+msgstr "Stellt alles fertig, um dich croppen zu lassen"
+
+msgid "Please do not modify the users password, as that is used to authenticate with the JSON RPC as a fallback method"
+msgstr "Bitte ändern Sie nicht das Passwort des Benutzers, da dieses zur Authentifizierung mit der JSON RPC als Fallback-Methode verwendet wird"
+
+msgid "If you have any questions or need help, please reach out to us on"
+msgstr "Bei etwaigen Fragen, kannst du uns gerne hier kontaktieren:"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Issues with security related plugins"
+msgstr "Bekannte Probleme mit Sicherheitsplugins"
+
+msgid "Please note that certain security-related plugins, such as WPSecurity or Remove XMLRPC Pingback Ping, may interfere with the functionality of this plugin. These plugins often disable or restrict the use of application passwords and the WordPress JSON-RPC API, which are essential for the proper operation of Croppy."
+msgstr "Bitte beachten Sie, dass bestimmte sicherheitsrelevante Plugins, wie z. B. 'WPSecurity' oder 'Remove XMLRPC Pingback Ping', die Funktionalität dieses Plugins beeinträchtigen können. Diese Plugins deaktivieren oder beschränken häufig die Verwendung von Anwendungskennwörtern und der WordPress JSON-RPC API, die für den ordnungsgemäßen Betrieb von Croppy unerlässlich sind."
+
+msgid "To find out more, check out the"
+msgstr "Um mehr herauszufinden, besuche die "
+
+msgid "or visit the download page of the plugin"
+msgstr " oder besuche die Download-Seite unseres Plugins"
+
+msgid "WordPress documentation"
+msgstr "WordPress Dokumentation"
+
+msgid "Successfully connected"
+msgstr "Erfolgreich verbunden!"
+
+msgid "Everything went perfectly fine, to access your personal cropper, click the button below!"
+msgstr "Alles wurde erfolgreich fertiggestellt, um deinen persönlichen Cropper zu erreichen, klicke auf 'Croppy öffnen'"

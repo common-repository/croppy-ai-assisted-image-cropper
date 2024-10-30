@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+
+msgid "Email Address:"
+msgstr "E-Mail-Address:"
+
+msgid "Application Password:"
+msgstr "Application Password:"
+
+msgid "Configure"
+msgstr "Configure"
+
+msgid "Logout"
+msgstr "Ausloggen"
+
+msgid "Open Croppy"
+msgstr "Open Croppy"
+
+msgid "Croppy"
+msgstr "Croppy"
+
+msgid "This Plugin will help you to connect your WordPress Website with Croppy."
+msgstr "This Plugin will help you to connect your WordPress Website with Croppy"
+
+msgid "Steps you need to do before clicking finish:"
+msgstr "Steps you need to do before clicking finish:"
+
+msgid "Create a new user with the rights to create and manage media"
+msgstr "Create a new user with the rights to create and manage media (Author)"
+
+msgid "Create an application password for this user"
+msgstr "Create an application password for this user"
+
+msgid "Copy the email address of the user and paste it into the form below"
+msgstr "Copy the email address of the user and paste it into the form below"
+
+msgid "By clicking on finish it will do the following:"
+msgstr "By clicking on finish it will do the following:"
+
+msgid "Create a new user on our systems with the user mail and password that you provided"
+msgstr "Create a new user on our systems with the user mail and password that you provided"
+
+msgid "Redirect you to the Croppy interface"
+msgstr "Redirects you to the Croppy interface"
+
+msgid "Set you up to let you crop"
+msgstr "Set you up to let you crop"
+
+msgid "Please do not modify the users password, as that is used to authenticate with the JSON RPC as a fallback method"
+msgstr "Please do not modify the users password, as that is used to authenticate with the JSON RPC as a fallback method"
+
+msgid "If you have any questions or need help, please reach out to us on"
+msgstr "If you have any questions or need help, please reach out to us here:"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Issues with security related plugins"
+msgstr "Issues with security related plugins"
+
+msgid "Please note that certain security-related plugins, such as WPSecurity or Remove XMLRPC Pingback Ping, may interfere with the functionality of this plugin. These plugins often disable or restrict the use of application passwords and the WordPress JSON-RPC API, which are essential for the proper operation of Croppy."
+msgstr "Please note that certain security-related plugins, such as 'WPSecurity' or 'Remove XMLRPC Pingback Ping', may interfere with the functionality of this plugin. These plugins often disable or restrict the use of application passwords and the WordPress JSON-RPC API, which are essential for the proper operation of Croppy."
+
+msgid "To find out more, check out the"
+msgstr "To find out more, check out the "
+
+msgid "or visit the download page of the plugin"
+msgstr " or visit the download page of the plugin"
+
+msgid "WordPress documentation"
+msgstr "WordPress documentation"
+
+msgid "Successfully connected"
+msgstr "Successfully connected!"
+
+msgid "Everything went perfectly fine, to access your personal cropper, click the button below!"
+msgstr "Everything went perfectly fine, to access your personal cropper, click the button below!"
